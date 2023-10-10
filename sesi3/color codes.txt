@@ -1,0 +1,2 @@
+Background: #9BCADA
+Font color: #171920
